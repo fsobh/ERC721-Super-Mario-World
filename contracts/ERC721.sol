@@ -52,7 +52,7 @@ contract ERC721 {
         emit ApprovalForAll(msg.sender,operator,approved);
 
 
-     };
+     }
 
     //checks if an address is approved to be an operator by another address
      function isApprovedForAll(address owner, address operator) public view returns (bool){
@@ -104,12 +104,12 @@ contract ERC721 {
         //update token ownership
         _owners[tokenId] = to;
 
-        emit Transfer(from,to,owner);
+        emit Transfer(from,to,tokenId);
 
      }
 
      // Updates an approved address
-     function approve(address to, uint256 tokenId) {
+     function approve(address to, uint256 tokenId) public {
 
         require(to != address(0), "Operator Zero Address");
 

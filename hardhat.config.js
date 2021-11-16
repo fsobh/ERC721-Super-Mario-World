@@ -22,7 +22,7 @@ module.exports = {
   networks:{
     rinkeby:{
       url : process.env.RINKEBY,
-      account : [process.env.PRIVATE_KEY]
+      accounts : [process.env.PRIVATE_KEY]
     }
   }
 };

@@ -7,7 +7,7 @@
 <div align="center">
 
 
-[![Solidity](https://img.shields.io/badge/Solidity-%5E0.6.0-red)](https://img.shields.io/badge/Solidity-%5E0.8.0-red)   [![JavaScript](https://img.shields.io/badge/JavaScript-ES9-%23FFFF00)](https://img.shields.io/badge/JavaScript-ES9-%23FFFF00)    [![Node](https://img.shields.io/badge/NodeJS-v10.16.2-brightgreen)](https://img.shields.io/badge/NodeJS-v10.16.2-brightgreen)   [![Rinkeby](https://img.shields.io/badge/Rinkeby-test--net-%23FFA500)](https://img.shields.io/badge/Rinkeby-test--net-%23FFA500)     [![Ethers](https://img.shields.io/badge/Ethers-5.1.3-%239370DB)](https://img.shields.io/badge/Ethers-5.1.3-%239370DB)   (https://img.shields.io/badge/Meta--Mask-wallet-orange) [![HardHat](https://img.shields.io/badge/Hardhat-compiler-red)](https://img.shields.io/badge/Hardhat-compiler-red)
+[![Solidity](https://img.shields.io/badge/Solidity-%5E0.6.0-red)](https://img.shields.io/badge/Solidity-%5E0.8.0-red)   [![JavaScript](https://img.shields.io/badge/JavaScript-ES9-%23FFFF00)](https://img.shields.io/badge/JavaScript-ES9-%23FFFF00)    [![Node](https://img.shields.io/badge/NodeJS-v10.16.2-brightgreen)](https://img.shields.io/badge/NodeJS-v10.16.2-brightgreen)   [![Rinkeby](https://img.shields.io/badge/Rinkeby-test--net-%23FFA500)](https://img.shields.io/badge/Rinkeby-test--net-%23FFA500)     [![Ethers](https://img.shields.io/badge/Ethers-5.1.3-%239370DB)](https://img.shields.io/badge/Ethers-5.1.3-%239370DB)   [![HardHat](https://img.shields.io/badge/Hardhat-compiler-red)](https://img.shields.io/badge/Hardhat-compiler-red)
     
 
 </div>

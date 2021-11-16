@@ -39,15 +39,4 @@ Implemented From Scratch and fully compatible with OpenSea !
 --------------------------------------
 
 
-<h2>
-    Browser Support
-</h2>
-<p>
-   supporting the last two versions of the following browsers:
-</p>
-<p>
-<img src="https://demo.uifort.com/github-assets/browsers/chrome.png" width="64" height="64"> <img src="https://demo.uifort.com/github-assets/browsers/firefox.png" width="64" height="64"> <img src="https://i1.wp.com/bitcoinreviewsguide.com/wp-content/uploads/2020/04/brave-broswer-icon.jpg?fit=485%2C483&ssl=1" width="64" height="64">
-
----
-
 

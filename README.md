@@ -14,12 +14,10 @@
 
 ---
 
-## The new starting point for NFT game development and integration
+## Super Mario Worl NFT
 
-OpenRPG is a way to get Game developers kicked off at integrating game characters, stats, and items as Non-Fungible tokens that can be traded between players on the blockchain
+Implemented From Scratch and fully compatible with OpenSea !
 
-
-** ADD MORE DESCRIPTION HERE **
 
 **Installation Instructions:**
 

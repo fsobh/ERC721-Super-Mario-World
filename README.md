@@ -14,7 +14,7 @@
 
 ---
 
-## Super Mario Worl NFT
+## Super Mario World NFT
 
 Implemented From Scratch and fully compatible with OpenSea !
 
